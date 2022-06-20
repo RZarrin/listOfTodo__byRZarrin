@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'LBI';
+    src: url(../fonts/Lato-BoldItalic.ttf);
+}
+@font-face {
+    font-family: 'LB';
+    src: url(../fonts/Lato-Bold.ttf);
+}
+@font-face {
+    font-family: 'DR';
+    src: url(../fonts/DancingScript-Regular.ttf);
+}
+@font-face {
+	font-family: 'DM';
+	src: url(../fonts/DancingScript-Medium.ttf);
+}
